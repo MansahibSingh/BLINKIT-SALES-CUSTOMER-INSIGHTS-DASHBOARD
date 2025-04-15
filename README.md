@@ -77,22 +77,24 @@ Analyzed patterns and produced actionable insights for decision-makers, such as:
 
   * Medium-sized outlets outperform smaller ones in total revenue.
 
-🧩 Key Insights Derived:
-Fat Content: Items with regular fat content generated significantly more sales than low-fat variants.
+**🧩 Key Insights Derived:**
 
-Item Types: Snacks and beverages were the highest revenue generators.
+* Fat Content: Items with regular fat content generated significantly more sales than low-fat variants.
 
-Outlet Establishment: Sales saw steady growth over years, peaking in 2018–2019.
+* Item Types: Snacks and beverages were the highest revenue generators.
 
-Outlet Size: Medium-sized outlets contributed over 40% of total sales.
+* Outlet Establishment: Sales saw steady growth over years, peaking in 2018–2019.
 
-Outlet Type: Supermarkets (especially Type 1) had the highest item counts and sales.
+* Outlet Size: Medium-sized outlets contributed over 40% of total sales.
 
-Geographic Distribution: Tier 2 cities showed strong customer engagement and higher revenue.
+* Outlet Type: Supermarkets (especially Type 1) had the highest item counts and sales.
 
-🛠️ Tools & Technologies Used:
-Power BI – For data connection, transformation, modeling, DAX, and visualization.
+* Geographic Distribution: Tier 2 cities showed strong customer engagement and higher revenue.
 
-DAX (Data Analysis Expressions) – To build custom KPIs and business logic.
+**🛠️ Tools & Technologies Used:**
 
-Excel (if used for data source) – Optional mention depending on actual source.
+* Power BI – For data connection, transformation, modeling, DAX, and visualization.
+
+* DAX (Data Analysis Expressions) – To build custom KPIs and business logic.
+
+* Excel (if used for data source) – Optional mention depending on actual source.
