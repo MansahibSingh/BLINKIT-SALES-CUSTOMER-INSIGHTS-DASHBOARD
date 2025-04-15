@@ -45,7 +45,8 @@ The dashboard contains multiple charts and visuals to highlight meaningful patte
 
 * Filter Panel enabling dynamic filtering by location, outlet size, and item type.
 
-🔄 End-to-End Workflow:
+**🔄 End-to-End Workflow:**
+
 Requirement Gathering
 Defined business questions and KPI needs based on sales and customer satisfaction objectives.
 
