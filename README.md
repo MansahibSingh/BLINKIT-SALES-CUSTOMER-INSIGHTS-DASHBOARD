@@ -47,35 +47,35 @@ The dashboard contains multiple charts and visuals to highlight meaningful patte
 
 **🔄 End-to-End Workflow:**
 
-Requirement Gathering
+Requirement Gathering -
 Defined business questions and KPI needs based on sales and customer satisfaction objectives.
 
-Data Walkthrough & Connection
+Data Walkthrough & Connection - 
 Explored and connected to raw data sources within Power BI.
 
-Data Cleaning / Quality Checks
+Data Cleaning / Quality Checks - 
 Cleaned null values, ensured proper data types, and standardized categorical variables.
 
-Data Modeling
+Data Modeling - 
 Established relationships between tables using a star schema for efficient querying.
 
-Data Processing
+Data Processing - 
 Transformed columns and created calculated tables for analysis.
 
-DAX Calculations
+DAX Calculations - 
 Built calculated fields for Total Sales, Average Sales, Rating, and more using DAX.
 
-Dashboard Layout & Chart Development
+Dashboard Layout & Chart Development - 
 Developed an intuitive and visually appealing layout with consistent color schemes and chart formatting.
 
-Insights Generation
+Insights Generation - 
 Analyzed patterns and produced actionable insights for decision-makers, such as:
 
-Outlets with higher fat content items tend to have higher sales.
+  * Outlets with higher fat content items tend to have higher sales.
 
-Tier 2 locations have better item diversity and higher total sales.
+  * Tier 2 locations have better item diversity and higher total sales.
 
-Medium-sized outlets outperform smaller ones in total revenue.
+  * Medium-sized outlets outperform smaller ones in total revenue.
 
 🧩 Key Insights Derived:
 Fat Content: Items with regular fat content generated significantly more sales than low-fat variants.
