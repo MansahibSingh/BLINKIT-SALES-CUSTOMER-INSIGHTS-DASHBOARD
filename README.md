@@ -3,16 +3,17 @@
 
 The objective of this project was to develop an interactive and dynamic Power BI dashboard to analyze Blinkit’s sales performance, customer satisfaction, and inventory distribution. The goal was to provide business stakeholders with actionable insights into sales trends, customer ratings, and outlet-level performance to drive data-informed decisions.
 
-🧠 Business Requirements:
+###🧠 Business Requirements:
+
 The analysis aimed to:
 
-Understand total and average sales metrics.
+. Understand total and average sales metrics.
 
-Identify best- and worst-performing items.
+. Identify best- and worst-performing items.
 
-Explore customer satisfaction using average ratings.
+. Explore customer satisfaction using average ratings.
 
-Break down sales and performance by outlet type, location, and size.
+. Break down sales and performance by outlet type, location, and size.
 
 Visualize insights to support business strategies and operational improvements.
 
